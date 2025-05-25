@@ -4,7 +4,7 @@ Learning how to making and designing web pages with HTML and CSS (and possible J
 
 ### 🌱 I’m currently learning:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,vscodium,linux,debian" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,vscodium,debian" />
 </p>
 
 <!--
